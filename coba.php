@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 
 <html>
-
+<!-- jefri ganteng bgt uhh -->
 <head>
     <title>Data Pelanggan</title>
     <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
